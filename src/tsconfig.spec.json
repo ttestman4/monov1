@@ -3,6 +3,9 @@
   "compilerOptions": {
     "outDir": "../out-tsc/spec",
     "types": [
+      "jest",
+      "jquery",
+      "jsdom",
       "jasmine",
       "node"
     ]
