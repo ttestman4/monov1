@@ -5,6 +5,8 @@
     "types": []
   },
   "exclude": [
+    "setupJest.ts",
+    "jestGlobalMocks.ts",
     "test.ts",
     "**/*.spec.ts"
   ]
