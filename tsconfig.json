@@ -16,6 +16,14 @@
     "lib": [
       "es2017",
       "dom"
-    ]
+    ],
+    "paths": {
+      "helper-lib": [
+        "dist/helper-lib"
+      ],
+      "helper-lib/*": [
+        "dist/helper-lib/*"
+      ]
+    }
   }
 }
